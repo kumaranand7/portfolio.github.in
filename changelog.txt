@@ -58,7 +58,7 @@ Version: 2.3.0
   - Updated the PHP Email Form library to version 2.0 with reCaptcha support
   - Added portfolio-details.html page template
   - Other small fixes and improvements
-  
+   
 Version: 2.2.0
   - Added: Scroll to sections on load with hash links
   - Updated Venobox library to the latest version
